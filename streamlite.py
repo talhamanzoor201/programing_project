@@ -9,7 +9,7 @@ import os # accessing directory structure
 
 
 
-df = pd.read_csv(r'C:\Users\talha\Downloads\programming Project\telecom_churn_data.csv')
+df = pd.read_csv("https://drive.google.com/u/0/uc?id=1SWnADIda31mVFevFcfkGtcgBHTKKI94J&export=download", encoding = "ISO-8859-1", low_memory=False )
 
 
 
